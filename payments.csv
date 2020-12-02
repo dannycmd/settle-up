@@ -1,0 +1,7 @@
+payee,recipients,amount,,
+dr,bs,10,,
+ss,"bs,ss",20,,
+sm,"bs,dr,ib",30,,
+ib,"bs,ib,sm",15,,
+bs,"bs,ib,ss,sm",80,,
+ib,"bs,ib,sm,ss",37,,
